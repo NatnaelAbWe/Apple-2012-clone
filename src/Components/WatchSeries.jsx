@@ -5,7 +5,7 @@ import appleCardLogo from "../assets/icons/apple-card-logo.png";
 
 export default function WatchSeries() {
   return (
-    <section className="flex flex-col md:flex-row m-5 text-center gap-5">
+    <section className="flex flex-col md:flex-row m-5 text-center">
       <section
         className=" bg-cover bg-center bg-no-repeat h-[700px] w-full md:w-1/2 p-10"
         style={{ backgroundImage: `url(${watch})` }}
