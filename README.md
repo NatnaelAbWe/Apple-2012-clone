@@ -1,12 +1,67 @@
-# React + Vite
+# 🍏 APPLE 2012 Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React + Tailwind CSS** landing page that showcases the **iPhone 11 Pro** with a clean design and responsive layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎨 **Tailwind CSS styling** for fast and responsive design
+- 📱 **Responsive layout** across devices
+- 🔗 **Call-to-action links** ("Learn more" and "Buy")
+- ⚡ **Easy to customize** for other products
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://react.dev/) – Frontend framework
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+- [Vite](https://vitejs.dev/) – Build tool & dev server
+
+---
+
+## 📂 Project Structure
+
+![alt text](image.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repo:**
+   ```bash
+   origin  git@github.com:NatnaelAbWe/Apple-2012-clone.git
+   cd apple-2012
+   ```
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Run the development server:**
+
+```bash
+npm run dev
+```
+
+4. **Open in browser:**
+
+```bash
+http://localhost:5173
+```
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
+
+---
+
+## 🙌 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+---
